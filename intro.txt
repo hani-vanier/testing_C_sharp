@@ -1,4 +1,9 @@
-This is my first repo 
-ha ha 
-ww
-ss
+<<<<<<< HEAD
+This is my first repo
+<<<<<<< HEAD
+
+I like coding
+
+C# is easy
+
+i am fixint 
