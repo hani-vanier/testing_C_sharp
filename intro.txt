@@ -1,8 +1,7 @@
+<<<<<<< HEAD
 This is my first repo
 <<<<<<< HEAD
 
 I like coding
 
-Coding is a game
-=======
->>>>>>> parent of b447169 (first commit)
+C# is easy
